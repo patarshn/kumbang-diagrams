@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T08:08:10.733Z" agent="5.0 (Windows)" etag="S1jsdxuJ71oPxPotPX9l" version="16.0.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-14T08:08:56.873Z" agent="5.0 (Windows)" etag="yYlshxsR_9rSUewKtYze" version="16.0.0" type="github" pages="4">
   <diagram id="gZ_NZd8werH_gFHtuhrg" name="ReadMe">
     <mxGraphModel dx="1198" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
         <mxCell id="mXl91o6nVGncAo_f9DPq-0" value="&lt;h1&gt;Web Settings (Admin)&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Web settings menu contains minimun configuration like:&lt;br&gt;- Primary and secondary color for web.&lt;br&gt;- Web Icons&lt;br&gt;- Web Name&lt;br&gt;- etc.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="oQQIHEncl1UuqxDFmnPC-1">
           <mxGeometry x="40" y="-1080" width="620" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="GfDEladuzfpLqiejpUdV-0" value="&lt;h1&gt;Manage Product (Admin)&lt;br&gt;&lt;/h1&gt;Manage product menu contains CRUD for product" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="oQQIHEncl1UuqxDFmnPC-1">
+        <mxCell id="GfDEladuzfpLqiejpUdV-0" value="&lt;h1&gt;Manage Product (Admin)&lt;br&gt;&lt;/h1&gt;Manage product menu contains CRUD for product, you can read requirement information in &lt;b&gt;ReadMe&lt;/b&gt;." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="oQQIHEncl1UuqxDFmnPC-1">
           <mxGeometry x="40" y="-940" width="620" height="70" as="geometry" />
         </mxCell>
         <mxCell id="H-bOpYvXhrHapNWHs2O4-0" value="&lt;h1&gt;Manage Carousel (Admin)&lt;br&gt;&lt;/h1&gt;Manage product menu contains CRUD for carousel/slider" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="oQQIHEncl1UuqxDFmnPC-1">
